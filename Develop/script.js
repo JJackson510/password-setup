@@ -107,8 +107,4 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-// st up prompt for password criteria
-// set up lenght of the password
-// confirm characters you want to use
-//set up charracters
-//
+
